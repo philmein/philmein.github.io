@@ -1,10 +1,8 @@
 # Summary
 
-## Overview
+## Philme.in
 
-* [Philme.in](README.md)
+* [About](README.md)
 
-## Methods
-
-* [Defining Methods](methods.md)
+## Posts
 
