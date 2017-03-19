@@ -1,8 +1,5 @@
 # Summary
 
-## Philme.in
-
-* [About](README.md)
-
-## Posts
+* [Introduction](README.md)
+* [About](about.md)
 
